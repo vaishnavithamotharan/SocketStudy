@@ -79,9 +79,9 @@ conn.send(message.encode())
 conn.close()
 server_socket.close()
 ```
-```
+
 <img width="1870" height="370" alt="Screenshot 2026-04-23 205948" src="https://github.com/user-attachments/assets/8f72d7ab-dd3f-40d2-bc2a-842d6a1aab2e" />
-```
+
 ```
 client.py
 import socket
@@ -100,9 +100,9 @@ print("Server says:", data)
 # Close socket
 client_socket.close()
 ```
-```
+
 <img width="1850" height="275" alt="Screenshot 2026-04-23 210015" src="https://github.com/user-attachments/assets/97bc6ed8-b626-4182-95dc-47ab3bb9a382" />
-```
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
