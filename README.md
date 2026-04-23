@@ -81,6 +81,7 @@ server_socket.close()
 ```
 <img width="1870" height="370" alt="Screenshot 2026-04-23 205948" src="https://github.com/user-attachments/assets/8f72d7ab-dd3f-40d2-bc2a-842d6a1aab2e" />
 ```
+```
 client.py
 import socket
 # Create socket
